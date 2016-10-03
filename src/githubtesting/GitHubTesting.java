@@ -14,7 +14,7 @@ public class GitHubTesting {
 
     //Begin Main Method
     public static void main(String[] args) {
-        System.out.println("Test clone push");
+
 
     } //End Main Method
 
