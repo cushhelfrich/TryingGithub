@@ -17,7 +17,7 @@ public class GitHubTesting {
         System.out.println("Test clone push");
         System.out.println("Testing again");
         System.out.println("Third test");
-        jlj
+        System.out.println("Fix test");
     } //End Main Method
 
 } //End Class GitHubTesting
