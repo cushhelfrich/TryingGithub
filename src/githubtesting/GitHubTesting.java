@@ -18,7 +18,8 @@ public class GitHubTesting {
         System.out.println("Testing again");
         System.out.println("Third test");
         System.out.println("Fix test");
-        Systme.out.println("Testing test_branch");
+        System.out.println("Testing test_branch");
+        System.out.println("Test typo fix");
     } //End Main Method
 
 } //End Class GitHubTesting
