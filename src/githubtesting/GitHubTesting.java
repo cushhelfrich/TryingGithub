@@ -18,6 +18,7 @@ public class GitHubTesting {
         System.out.println("Testing again");
         System.out.println("Testing once again");
         System.out.println("Test_Branch");
+        System.out.println("Test Master");
 
 
     } //End Main Method
